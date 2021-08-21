@@ -6,7 +6,7 @@ You can put the lib files in your project directory and include the header file.
 
 ## How to connect the hardware
 The default connection is below:
-esp32_pin&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; nRD24L01_pin
+esp32_pin&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; nRD24L01_pin  
  GPIO15  <------------>  CSN  
  GPIO14  <------------>  SCK  
  GPIO12  <------------>  MISO  
