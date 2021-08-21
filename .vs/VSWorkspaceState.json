@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\example",
+    "\\example\\nRF24l01Receive",
+    "\\example\\nRF24l01Transmitt",
+    "\\lib"
+  ],
+  "SelectedNode": "\\example\\nRF24l01Receive\\nRF24L01.cpp",
+  "PreviewInSolutionExplorer": false
+}
