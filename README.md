@@ -1,5 +1,5 @@
 # Simple nRD24L01 driver for esp32(arduino) V1.0
-Hello everyone, I'm zapquiyou. The driver is coded by myself for some projects. Becasue I can't find a nRD24L01 driver easy to use for esp32(arduino), I made an shared this.
+Hello everyone, I'm zapquiyou. The driver is coded by myself for some projects. Becasue I can't find a nRD24L01 driver easy to use for esp32(arduino), I made and shared this.
 
 ## How to use in code
 You can put the lib files in your project directory and include the header file.
@@ -19,4 +19,4 @@ You can change the pins' connection by modify the header file or call the setPin
 Please refer to the example for data sending and receiving programming
 
 ## PS
-If this lib helps you in the academic papers or business, Please mention and remind me. That may be helpful to me and encourage me to share more works, thanks!
+If this lib helps you in the academic papers or business, please mention and remind me. That may be helpful to me and encourage me to share more works, thanks!
