@@ -1,4 +1,4 @@
-# Simple nRD24L01 driver for esp32(arduino) V1.0
+# Simple nRF24L01 driver for esp32(arduino) V1.0
 Hello everyone, I'm zapquiyou. The driver is coded by myself for some projects. Becasue I can't find a nRF24L01 driver easy to use for esp32(arduino), I made and shared this.
 
 ## How to use in code
